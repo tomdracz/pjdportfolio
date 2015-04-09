@@ -1,5 +1,5 @@
 $(document).ready(function() {
-	$('.fade').hover(
+	$('.imgfade').hover(
 		function(){
 			$(this).find('.caption').fadeIn(250);
 		},
